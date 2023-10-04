@@ -1,0 +1,10 @@
+Algorithme FactoN
+variable 
+  n,i,f:enteir
+debut 
+  ecrire("enter positif number")
+  lire(n)
+  pour i<- 1 a n pas 1 faire
+    f = f*i
+  fin pour
+fin
